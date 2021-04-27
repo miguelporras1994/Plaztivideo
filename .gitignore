@@ -71,6 +71,9 @@ typings/
 # Docs Custom
 .cache/
 yarn-error.log
+_cacache/
+anonymous-cli-metrics.json
+node-sass/
 
 # Build
 dist/
